@@ -24,7 +24,10 @@ void testSwitch() {
 }
 
 int main(void) {
-	findKeyWordTime();
+	testPointer();
+//	getKeyWord();
+//	testStructDynamic();
+//	findKeyWordTime();
 //	testStruct();
 //	getLongestLine();
 //	testHeap();
